@@ -4,6 +4,7 @@
   "workspaces": [
     "packages/*"
   ],
+  "main": "dist/lib",
   "license": "MIT",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
